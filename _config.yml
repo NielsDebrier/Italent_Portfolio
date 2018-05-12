@@ -1,1 +1,19 @@
 theme: jekyll-theme-midnight
+
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Niels Debrier
+
+# Short bio or description (displayed in the header)
+description: Italent portfolio voor PXL
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/nielsDebrier/Italent_portofolio/master/_images/pxl-logo.png
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  github: nielsDebrier/Italent_portfolio
+  linkedin: niels-debrier
